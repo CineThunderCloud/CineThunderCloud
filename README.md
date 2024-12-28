@@ -20,8 +20,7 @@ This project aims to create an interactive LED cloud ceiling that synchronizes w
 
 **Note**: I'm not a professional programmer, but I'm passionate about creating this project. I'm looking for collaborators who can help bring it to life. If you're a developer or machine learning enthusiast, your contributions are welcome! 
 
-Feel free to fork the project, open issues, or contribute directly by submitting pull requests. Any help is greatly appreciated!
-
+Feel free to fork the project, open issues, or contribute directly by submitting pull requests. Any help is welcome, and together we can make this project come to life!
 ---
 
 ## Technologies Used
